@@ -1,3 +1,5 @@
+[![Capture.png](https://i.postimg.cc/s2C84YYW/Capture.png)](https://postimg.cc/FYGD9JnF)
+
 class Solution {
 public:
     string addBinary(string a, string b) {
